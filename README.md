@@ -24,5 +24,3 @@ My name is Nontaphat Ruaklittichai Currently, I am working at gethergo as a posi
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Faerissia"><img src="https://github-readme-stats.vercel.app/api?username=Faerissia&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Faerissia's GitHub stats" /></a>
-
-<a href="http://www.github.com/Faerissia"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Faerissia&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
