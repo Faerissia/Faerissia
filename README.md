@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Back-End Developer
 ------------------
 
-My name is Nontaphat Ruaklittichai Currently, I am working at gethergo as a position Back-End Developer. In my position, responsible for the server-side logic of a web application, website, or software product ,create services and API with nodeJS, express. I had 8 month of experience at gethergo.
+My name is Nontaphat Ruaklittichai Currently, I am working at gethergo as a position Back-End Developer. In my position, responsible for the server-side logic of a web application, website, or software product ,create services and API with nodeJS, express. I had 10 month of experience at gethergo.
 
 * 🌍  I'm based in Ratchaburi, Thailand
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio-nontaphat.vercel.app/)
